@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* 추가된 부분 */
+}
+body {
+  background-color: #ccc;
+}
+#wrap {
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 600px;
+  height: 600px;
+  background-color: #5454;
+}
